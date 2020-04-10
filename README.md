@@ -1,6 +1,6 @@
-## BitListen - Bitcoin Transaction Visualizer ##
+## BitSound - Bitcoin Transaction Visualizer ##
 
-Current version hosted at [**Bitsound.barangulesen.com**](http://bitsound.barangulesen/). Project formerly known as "Listen to Bitcoin" (ListenToBitcoin.com has been sold.)
+Current version hosted at [**bitsound.barangulesen.com**](http://bitsound.barangulesen/). Project formerly known as "Listen to Bitcoin" (ListenToBitcoin.com has been sold.)
 
 Realtime Bitcoin transaction visualizer written in HTML/Javascript. See and hear new transactions and blocks as they propagate through the Bitcoin Network.
 
